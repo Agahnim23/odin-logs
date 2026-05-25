@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260525-171132-mrig",
+      "title": "J A Z Z Z Z Z",
+      "commanders": [
+        "J A Z Z Z Z Z"
+      ],
+      "dateStart": "2026-05-25T15:11:32.000Z",
+      "dateEnd": "2026-05-25T16:24:50.000Z",
+      "dateLabel": "25.5.2026, 17:11:32 - 25.5.2026, 18:24:50",
+      "url": "https://Agahnim23.github.io/odin-logs/?report=20260525-171132-mrig",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 7,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260525-100430-k69k",
       "title": "J A Z Z Z Z Z",
       "commanders": [
