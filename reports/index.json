@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260525-100430-k69k",
+      "title": "J A Z Z Z Z Z",
+      "commanders": [
+        "J A Z Z Z Z Z"
+      ],
+      "dateStart": "2026-05-25T08:04:30.000Z",
+      "dateEnd": "2026-05-25T09:26:44.000Z",
+      "dateLabel": "25.5.2026, 10:04:30 - 25.5.2026, 11:26:44",
+      "url": "https://Agahnim23.github.io/odin-logs/?report=20260525-100430-k69k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 83
+      }
+    }
+  ]
+}
