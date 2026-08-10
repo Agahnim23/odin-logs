@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-200450-3t0n",
+      "title": "J A Z Z Z Z Z",
+      "commanders": [
+        "J A Z Z Z Z Z"
+      ],
+      "guild": {
+        "id": "C71A0BF8-083C-4205-BD13-E30D0C343335",
+        "name": "NA Wolves Of",
+        "tag": "ODIN"
+      },
+      "dateStart": "2026-08-10T18:04:50.000Z",
+      "dateEnd": "2026-08-10T19:47:37.000Z",
+      "dateLabel": "10.8.2026, 20:04:50 - 10.8.2026, 21:47:37",
+      "url": "https://Agahnim23.github.io/odin-logs/?report=20260810-200450-3t0n",
+      "summary": {
+        "borderlandsPct": 0.07692307692307693,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260808-095831-p9yd",
       "title": "J A Z Z Z Z Z, Osunnyo",
       "commanders": [
