@@ -1,9 +1,42 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.21.0"
+  },
   "entries": [
+    {
+      "id": "20261005-200001-p3qo",
+      "title": "J A Z Z Z Z Z",
+      "commanders": [
+        "J A Z Z Z Z Z"
+      ],
+      "guild": {
+        "id": "C71A0BF8-083C-4205-BD13-E30D0C343335",
+        "name": "NA Wolves Of",
+        "tag": "ODIN"
+      },
+      "dateStart": "2026-10-05T18:00:01.000Z",
+      "dateEnd": "2026-10-05T19:19:07.906Z",
+      "dateLabel": "5.10.2026, 20:00:01 - 5.10.2026, 21:19:07",
+      "url": "https://Agahnim23.github.io/odin-logs/?report=20261005-200001-p3qo",
+      "publishedBy": "Agahnim23",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20260928-200108-0qi7",
       "title": "J A Z Z Z Z Z",
